@@ -1,4 +1,4 @@
-#Wikidata Editors Evolution
+# Wikidata Editors Evolution
 
 Jupyter Notebooks written by Cristina Sarasua and Alessandro Checco.
 
